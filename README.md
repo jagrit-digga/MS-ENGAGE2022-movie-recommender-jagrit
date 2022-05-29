@@ -10,5 +10,5 @@ Final Website : https://moviefinder-jagrit.herokuapp.com/ <br />
 Presentation link :  <br />
 Video URL : <br />
 
-How to execute the backend code : <br />
-
+How to execute the backend code through Jupyter : Execute backend_code.ipynb in order of cells <br />
+Command to run web application through pycharm : streamlit run app.py 
